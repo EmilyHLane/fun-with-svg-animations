@@ -2,52 +2,52 @@
   background-image: linear-gradient(to bottom right, #000621, #0f0121, #130021);
 }
 
-/* #130021 - purple black*/
-/* #0f0121 - bluepurple black */
-/* #000621 - blue black*/
+/*-------------*/
+/* fill colors */
+/*-------------*/
 
 /* flame colors */
 
-.red {
+.red-fill {
   fill: #ff0019;
 }
 
-.orange {
+.orange-fill {
   fill: #ff5900;
 }
 
-.yellow {
+.yellow-fill {
   fill: #fff200;
 }
 
-.pink {
+.pink-fill {
   fill: #ff0087;
 }
 
 /* building colors */
 
-.green {
+.green-fill {
   fill: #01f91d;
 }
 
-.light-blue {
+.light-blue-fill {
   fill: #02f9ed;
 }
 
 /* spaceship colors */
 
-.purple {
+.purple-fill {
   fill: #bb00ff;
 }
 
-.light-purple {
+.light-purple-fill {
   fill: #dc00ff;
 }
 
-.hotpink {
+.hotpink-fill {
   fill: #ff0d4a;
 }
 
-.purple-pink {
+.purple-pink-fill {
   fill: #e80cb1;
 }
